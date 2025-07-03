@@ -17,12 +17,6 @@ const themeList = [
     { name: 'cyan', color: '#06b6d4' },
     { name: 'sky', color: '#0ea5e9' },
     { name: 'blue', color: '#3b82f6' },
-    { name: 'indigo', color: '#6366f1' },
-    { name: 'violet', color: '#8b5cf6' },
-    { name: 'purple', color: '#a855f7' },
-    { name: 'fuchsia', color: '#d946ef' },
-    { name: 'pink', color: '#ec4899' },
-    { name: 'rose', color: '#f43f5e' },
 ]
 
 const colorRegex = new RegExp(
